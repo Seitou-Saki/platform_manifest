@@ -10,7 +10,7 @@
   <project path="frameworks/rs" name="AICP/frameworks_rs" groups="pdk" remote="aicp" />
   <project path="packages/apps/Settings" name="AICP/packages_apps_Settings" groups="pdk-fs" remote="aicp" />
   <project path="packages/apps/AICP_OTA" name="AICP/packages_apps_AICP_OTA" remote="aicp" />
-  <project path="packages/apps/AicpExtras" name="AICP/packages_apps_AicpExtras" remote="aicp" />
+  <project path="packages/apps/AicpExtras" name="Seitou-Saki/packages_apps_AicpExtras" revision="n7.1" />
   <project path="packages/apps/CMParts" name="AICP/packages_apps_CMParts" remote="aicp" />
   <project path="packages/apps/Contacts" name="AICP/packages_apps_Contacts" groups="pdk-fs" remote="aicp" />
   <project path="packages/apps/ContactsCommon" name="AICP/packages_apps_ContactsCommon" groups="pdk-fs" remote="aicp" />
